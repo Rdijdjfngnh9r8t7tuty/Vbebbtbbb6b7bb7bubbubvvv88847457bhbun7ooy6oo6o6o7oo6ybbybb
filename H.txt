@@ -1,0 +1,22 @@
+Host: m.facebook.com
+content-length: 1739
+sec-ch-ua: "Android WebView";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+sec-ch-ua-mobile: ?1
+user-agent: Mozilla/5.0 (Linux; Android 10; vivo 2015 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.118 Mobile Safari/537.36
+content-type: application/x-www-form-urlencoded
+x-fb-lsd: AVoJu8IKpkA
+sec-ch-ua-platform-version: ""
+x-asbd-id: 129477
+sec-ch-ua-full-version-list: 
+sec-ch-ua-model: ""
+sec-ch-prefers-color-scheme: light
+sec-ch-ua-platform: "Android"
+accept: */*
+origin: https://m.facebook.com
+x-requested-with: mark.via.gp
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://m.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8&rtime=1713890462&subno_key=AaFbYNTiq4seJVLpToFiP2sHoVIrd3F6A5mOKfYXaWZCI_E-oYjlZ0-VP_kZCsdFTkdjH1IaU-aCDlPTV9AA6jeUqw-WT9laMoHwg3zWUl-KkAWJwzzkAIoCkk5r2crvzUlyBHxdaxbG1eeZmUu8xBtXc5hdbsXfHF9InxunyhJmjIr-d3AuWDdKcCc9dGX9NBi8eDeThhFmI2jz5iIT8Nx-OI83KVJegsZcNJJkGTDFgepDuX1pU2sOfMDR6rdx1RiW5bPG8bLV-zjdkvKQXuoW8kgZg3SxpWI6m5eIQBH8TIJZgOBf0g4wByLcozEAaLc&hrc=1&wtsid=rdr_0tg7eT9mZnK43UtOQ&refsrc=deprecated&_rdr
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
